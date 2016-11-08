@@ -1,0 +1,7 @@
+{
+    "name": "Intelligently loading MathJax and higlight.js",
+    "label": "Smart Template",
+    "author": "Noah Lovelady-Allen",
+    "description": "CSS is from default Abricotine template, which was based on hypertexthero (Public domain): https://github.com/hypertexthero/typography",
+    "license": "MIT"
+}
